@@ -6,7 +6,8 @@ A Flask-based secret message encoder web app that converts normal text into uniq
 
 ## 📸 Preview
 
-*Add screenshot here later*
+[Website Screenshot](screenshot.png)
+
 
 ---
 
