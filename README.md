@@ -6,7 +6,7 @@ A Flask-based secret message encoder web app that converts normal text into uniq
 
 ## 📸 Preview
 
-[Website Screenshot]([screenshot.png](https://github.com/pranjal-ai-coder/cyber-encoder-app/blob/main/screenshot.png))
+[Website Screenshot]([screenshot.png)
 
 
 ---
