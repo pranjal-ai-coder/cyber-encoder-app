@@ -5,7 +5,7 @@ import binascii
 import random
 import time
 
-app = Flask(__name__, template_folder='.')
+app = Flask(__name__, template_folder='templates')
 CORS(app)
 
 CODE_DICT = {
